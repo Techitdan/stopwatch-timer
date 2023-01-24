@@ -9,8 +9,8 @@ const minutes = document.querySelector('.minutes');
 const seconds = document.querySelector('.seconds');
 
 const init = function(){
-  minutes.value = 0;
-  seconds.value = 0;
+  minutes.value = "00";
+  seconds.value = "00";
 }
 
 
